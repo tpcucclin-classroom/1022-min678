@@ -1,19 +1,15 @@
 #header {
-    float: left;
     background-color: red;
 }
 
 #side {
-    float: left;
     background-color: blue;
 }
 
 #main {
-    float: left;
     background-color: green;
 }
 
 #footer {
-    float: left;
     background-color: yellow;
 }
